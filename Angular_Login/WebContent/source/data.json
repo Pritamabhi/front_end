@@ -1,0 +1,23 @@
+[
+    {
+	"username": "pritam",
+    "password": "pritam",
+	"firstname": "pritam",
+	"lastname": "pritam",
+	"email": "pritam",
+    "phone": "123",
+	"location": "usa"
+	
+},
+ {
+	"username": "priyam",
+    "password": "qwerty123",
+	"firstname": "priyam",
+	"lastname": "sahoo",
+	"email": "priyam.a.sahoo@gmail.com",
+    "phone": "19877",
+	"location": "India"
+	
+	
+}
+]
